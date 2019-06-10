@@ -43,7 +43,7 @@ public class MemberController {
 	/**
 	 * 注册，将用户名及密码添加到数据库
 	 * 
-	 * @param user
+	 * @param username
 	 * @return
 	 */
 	@RequestMapping("/register")
